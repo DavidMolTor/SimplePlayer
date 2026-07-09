@@ -685,13 +685,25 @@
         "uuid": "361b87fa-3e7e-4f22-890f-5dc32caef103"
       }
     ],
-    "used_designators": "U1-4",
+    "used_designators": "J1-5,#FLG1-5,R1-37,L1,D1-9,#PWR1-67,C1-32,U1-10,IC1",
     "variants": []
   },
   "sheets": [
     [
       "361b87fa-3e7e-4f22-890f-5dc32caef103",
       "Raíz"
+    ],
+    [
+      "442d89d7-e006-4c1c-8338-ac87de7728c5",
+      "Microcontoller"
+    ],
+    [
+      "0bdd62df-3bf0-4f72-b774-05c9d400f210",
+      "Power"
+    ],
+    [
+      "b4ccf9bf-ef14-4b95-829b-6edc52caa35f",
+      "Audio"
     ]
   ],
   "text_variables": {},
