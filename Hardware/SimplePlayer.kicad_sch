@@ -149,6 +149,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 210.82 152.4)
+		(size 127 83.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fab730ff-bb26-4c4e-9114-947698fe3c26")
+		(property "Sheetname" "Expander"
+			(at 210.82 151.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Expander.kicad_sch"
+			(at 210.82 236.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePlayer"
+				(path "/361b87fa-3e7e-4f22-890f-5dc32caef103"
+					(page "5")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
