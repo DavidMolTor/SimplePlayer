@@ -1905,7 +1905,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "TPS61040 regulator output voltage: 4.37V\n\nVout=1.233 x (1 + R1 / R2)"
+	(text "TPS61040 regulator output voltage: 5.3V\n\nVout=1.233 x (1 + R1 / R2)"
 		(exclude_from_sim no)
 		(at 118.872 32.512 0)
 		(effects
@@ -1915,7 +1915,7 @@
 		)
 		(uuid "9e67c410-7c29-46ad-95b5-339d910ed8a4")
 	)
-	(text "LM27762 regulator output voltage: 4.2V\n\nVoutp=1.2 x (R1 + R2) / R2\n\nVoutn=-1.22 x (R3 + R4) / R4"
+	(text "LM27762 regulator output voltage: 5.0V\n\nVoutp=1.2 x (R1 + R2) / R2\n\nVoutn=-1.22 x (R3 + R4) / R4"
 		(exclude_from_sim no)
 		(at 195.58 34.544 0)
 		(effects
@@ -4482,7 +4482,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "510K"
+		(property "Value" "330K"
 			(at 101.6 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4800,7 +4800,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200K"
+		(property "Value" "100K"
 			(at 101.6 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5548,7 +5548,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "110K"
+		(property "Value" "150K"
 			(at 223.52 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5707,7 +5707,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270K"
+		(property "Value" "470K"
 			(at 223.52 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5866,7 +5866,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270K"
+		(property "Value" "470K"
 			(at 223.52 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6507,7 +6507,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "110K"
+		(property "Value" "150K"
 			(at 223.52 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
